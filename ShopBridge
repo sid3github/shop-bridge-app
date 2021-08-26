@@ -1,0 +1,5 @@
+home - I started with the home layout first with creating nav menu with hero container section containing a banner text with add product button and with a random product image.
+product - This page consist of all the necessary crud functionality of creating, updating, deleting etc. For creating and also to update have used a very clean looking form with message notification on every time a product created or updated. For deleting had used splice which takes the index value of the item which has been already created.
+product view - This section is already in product tab on bottom where you can see all the products that have been created.
+contact - This is just a simple contact form with basic form validation functionality.
+*All the above pages have been set using bootstrap / template.
